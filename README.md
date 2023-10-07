@@ -4,6 +4,7 @@
 The goal is to build an ETL pipeline using the Spotify API on AWS. The pipeline will rerieve data from Spotify API, transform it to a desired format and load it into AWS data store.
 
 ### ETL Process Overview
+
 1. Extract
 -Extract data from Spotify API using the Spotipy library
 -Deploy the data extraction code using the Lambda function
